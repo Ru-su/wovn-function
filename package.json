@@ -1,0 +1,17 @@
+{
+  "name": "function",
+  "version": "0.0.1",
+  "description": "translate text",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "node dist/index.js",
+    "test": "npx tsc && node dist/tests/index.js"
+  },
+  "author": "Shakirov Rustem",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "typescript": "^5.7.3"
+  }
+}
