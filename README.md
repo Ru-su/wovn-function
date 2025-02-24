@@ -4,7 +4,7 @@ The function translates text based on given parameters and a JSON data structure
 ## Commands
 
 Run it:
-`` npm run dev``
+`` npm run dev ``
 
 Test it:
 `` npm run test ``
